@@ -1,0 +1,56 @@
+h1 {
+    display: block;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+
+}
+
+.box {
+    border: black 1px solid;
+    height: 50vh;
+
+}
+
+.move {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 40vh;
+}
+
+.img2 {
+    transform: scaleX(-1);
+}
+
+
+
+.ResMoves {
+    border: black 1px solid;
+    display: flex;
+    justify-content: start;
+
+}
+
+.ResParg {
+    margin-top: 13px;
+    padding: 0px 0px 0px 5px;
+    font-size: 1.5rem;
+}
+
+.button-div {
+    margin-top: 50px;
+}
+
+button {
+    padding: 30px 150px 30px 150px;
+    font-size: xx-large;
+    font-weight: bold;
+    border: rgb(194, 193, 193) 1px solid;
+    border-radius: 10px;
+}
