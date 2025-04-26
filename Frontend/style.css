@@ -22,12 +22,13 @@ h1 {
 
 img {
     height: 40vh;
+    width: 300px;
 }
 
-.img2 {
+
+.computerImage {
     transform: scaleX(-1);
 }
-
 
 
 .ResMoves {
